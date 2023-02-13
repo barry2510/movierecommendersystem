@@ -1,4 +1,7 @@
 # TacoChacos
+
+Worked in a team along with PavanPera for a hackathon. Secured third place in a hackathon (Tecoholics) conducted by LatentView Analytics.
+
 **Steps Followed for Movie Recommender System**:
 
 **1.	Collecting Movie Data: (Scraping.ipynb)**
