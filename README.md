@@ -21,8 +21,8 @@ Secured third place in a hackathon (Tecoholics) conducted by LatentView Analytic
 	4. Extracted all the keywords row wise from columns [director, stars, plot, genres] using NLTK Library with method word_tokenize  where movie name is index for the data frame.
 
 	5. Performed text pre-processing like lemmatization and removed other stop words.
-
-    	6. Combined all the extracted keywords in single column with movie name as index
+	
+	6. Combined all the extracted keywords in single column with movie name as index
 
 	7. Used CountVectorizer to Vectorize each corpus in data frame.
 
